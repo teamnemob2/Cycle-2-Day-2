@@ -9,3 +9,6 @@
 
 <h3 align="left">Business Architecture:</h3>
 <img src="https://github.com/teamnemob2/Cycle-2-Day-2/assets/137851977/4fd450c1-1584-48da-9c5d-f1d4b562a786" alt="reactnative" width="900" height="300"/>
+
+<h3 align="left">Data Research:</h3>
+<img src="https://github.com/teamnemob2/Cycle-2-Day-2/assets/137851977/0ffba2b3-55a4-40d1-bd32-c4f4fe0d3d40" alt="reactnative" width="1000" height="700"/>
